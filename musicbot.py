@@ -84,4 +84,4 @@ async def stop(ctx):
     voice.stop()
 
 
-client.run('ODkzNzM1NDMyNzYyODM5MDkw.YVfx-w.Z5zrur3XWPRKlPL7LtpsZ01FW-s')
+client.run('#Discord-Token')
